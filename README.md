@@ -2,7 +2,7 @@
 Terraform script to deploy 3-node machine to MS Azure Subcription.
 
 - Clone this repo and just do a `cd docker-swarm-infrastructure`
-- Open termial at this path and run `az login` to login to your azure subscription.
+- Open terminal at this path and run `az login` to login to your azure subscription.
 - Once you've logged in, it's time to execute `terraform apply`
 
 > **Note** <br>
